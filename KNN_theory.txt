@@ -1,0 +1,8 @@
+EuclideanDistance(x, xi) = sqrt( sum( (xj – xij)^2 ) )
+
+Hamming Distance: Calculate the distance between binary vectors (more).
+Manhattan Distance: Calculate the distance between real vectors using the sum of their absolute difference. Also called City Block Distance (more).
+Minkowski Distance: Generalization of Euclidean and Manhattan distance (more).
+
+
+Tanimoto, Jaccard, Mahalanobis and cosine distance.
